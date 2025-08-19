@@ -1,0 +1,1 @@
+File in write mode ...Hi! I'm being written to a file.This line is appended to the file.Hi! I'm being written to a file.
